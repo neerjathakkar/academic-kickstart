@@ -17,28 +17,38 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Computer Science Teaching Assistant"
+  company = "Dartmouth College CS Department"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "Hanover, NH"
+  date_start = "2016-03-01"
+  date_end = "2019-03-01"
   description = """
-  Responsibilities include:
+  Served as a teaching assistant for:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * CS1 Introduction to Programming and Computation
+  * CS11 Foundations of Applied Computing
+  * CS30 Discrete Math for Computer Science
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Software Engineering Intern"
+  company = "Facebook"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Seattle"
+  date_start = "2018-06-01"
+  date_end = "2018-08-31"
+  description = """Interned on the integrity computer vision team. Optimized deep convolutional neural networks by implementing pruning algorithms.."""
+
+[[experience]]
+  title = "MIT Press Intern for Introduction to Algorithms"
+  company = "MIT Press"
+  company_url = ""
+  location = ""
+  date_start = "2018-03-01"
+  date_end = "2018-06-01"
+  description = """Worked with Thomas Cormen on writing solutions for the instructors manual for the 4th edition of Introduction to Algorithms by Cormen, Leiserson, Rivest and Stein."""
 
 +++

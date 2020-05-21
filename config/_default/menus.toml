@@ -5,32 +5,41 @@
 
 [[main]]
   name = "Home"
-  url = "#about"
   weight = 10
+  identifier = "homepage"
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "About"
+  url = "#about"
   weight = 20
+  parent = "homepage"
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Experience"
+  url = "#experience"
   weight = 30
+  parent = "homepage"
 
 [[main]]
   name = "Publications"
-  url = "#featured"
-  weight = 40
+  url = "#publications"
+  weight = 30
+  parent = "homepage"
 
 [[main]]
   name = "Contact"
   url = "#contact"
   weight = 60
+  parent = "homepage"
+
+[[main]]
+  name = "Blog"  # Title of the link.
+  url = "blog/"  # Widget Page folder name.
+  weight = 25  # Position of the link in the navigation bar.
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[main]]
-#    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 70
+[[main]]
+  name = "CV"
+  url = "files/cv.pdf"
+  weight = 70
