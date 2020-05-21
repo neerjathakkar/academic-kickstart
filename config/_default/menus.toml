@@ -23,7 +23,7 @@
 [[main]]
   name = "Publications"
   url = "#publications"
-  weight = 30
+  weight = 40
   parent = "homepage"
 
 [[main]]
@@ -35,7 +35,7 @@
 [[main]]
   name = "Blog"  # Title of the link.
   url = "blog/"  # Widget Page folder name.
-  weight = 25  # Position of the link in the navigation bar.
+  weight = 100  # Position of the link in the navigation bar.
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

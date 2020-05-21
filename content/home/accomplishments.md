@@ -20,6 +20,16 @@ date_format = "2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "UC Berkeley EECS Department"
+  organization_url = ""
+  title = "EECS Excellence Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-08-25"
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "Dartmouth College"
   organization_url = ""
   title = "Phi Beta Kappa, Magna Cum Laude, High Honors in Computer Science major"

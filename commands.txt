@@ -1,0 +1,18 @@
+To build website and view in chrome:
+hugo server
+Go to localhost:1313
+
+Create a new publication:
+hugo new --kind publication publication/<my-publication>
+Then edit content/publication/<my-publication>/index.md
+
+Create a new blog post:
+hugo new  --kind post post/my-article-name
+
+
+Important docs: 
+https://sourcethemes.com/academic/docs/get-started/ - get started, some info on menus and dropdown menu here
+https://sourcethemes.com/academic/docs/customization/ - custom theme, custom fonts, website icon, override templates, date formatting details
+	https://themes.gohugo.io/ themes!
+https://sourcethemes.com/academic/docs/writing-markdown-latex/ - writing content in markdown/latex, adding images and diagrams, etc
+
