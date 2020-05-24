@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   location = "Seattle"
   date_start = "2018-06-01"
   date_end = "2018-08-31"
-  description = """Interned on the integrity computer vision team. Optimized deep convolutional neural networks by implementing pruning algorithms.."""
+  description = """Interned on the integrity computer vision team. Optimized deep convolutional neural networks by implementing pruning algorithms."""
 
 [[experience]]
   title = "MIT Press Intern for Introduction to Algorithms"

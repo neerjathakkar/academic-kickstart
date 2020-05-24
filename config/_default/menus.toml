@@ -21,7 +21,7 @@
   parent = "homepage"
 
 [[main]]
-  name = "Publications"
+  name = "Research"
   url = "#publications"
   weight = 40
   parent = "homepage"

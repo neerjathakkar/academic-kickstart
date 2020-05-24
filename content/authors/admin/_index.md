@@ -72,6 +72,6 @@ user_groups:
 
 Hi! My name is Neerja Thakkar.
 
-In June 2019, I graduated from Dartmouth with a BA in Computer Science and Mathematics. I deferred my admission to move to Spain for a year, but in Fall 2020, I'm going to start my PhD in EECS at [Berkeley AI Research](https://bair.berkeley.edu/).
+In June 2019, I graduated from Dartmouth with a BA in Computer Science and Mathematics. For the past year, I've been a visiting student at the University of Zaragoza's [Graphics and Imaging Lab](http://neerja.me/graphics.unizar.es) on a [Fulbright Research Scholarship](https://fulbright.es/) to Spain.
 
-I'm currently a visiting student at the University of Zaragoza's [Graphics and Imaging Lab](http://neerja.me/graphics.unizar.es) on a [Fulbright Research Scholarship](https://fulbright.es/) to Spain. I am interested in research in computer vision, computational photography, and digital forensics.
+In Fall 2020, I'm going to start my PhD in EECS at [Berkeley AI Research](https://bair.berkeley.edu/). I am interested in research in computer vision, computational photography, and digital forensics.

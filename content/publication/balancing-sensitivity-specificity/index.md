@@ -25,7 +25,7 @@ abstract: ""
 summary: ""
 
 tags: []
-categories: [Computational Immunology]
+categories: []
 featured: false
 
 # Custom links (optional).
