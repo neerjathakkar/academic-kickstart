@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Neerja in Espana #3"
+title: "Neerja in España #3"
 subtitle: "Settling into Zaragoza"
 summary: "My first few days in my new home: apartment hunting and adjusting"
 authors: []
