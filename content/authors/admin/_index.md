@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student @ BAIR
+role: Incoming PhD Student @ BAIR
 
 # Organizations/Affiliations
 organizations:
