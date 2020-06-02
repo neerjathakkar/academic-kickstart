@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Incoming PhD Student @ BAIR
+role: Incoming EECS PhD Student @ Berkeley
 
 # Organizations/Affiliations
 organizations:
@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: Incoming PhD Student in EECS
+  - course: Incoming EECS PhD Student
     institution: UC Berkeley
     year: Starting Fall 2020
   - course: BA in Computer Science and Mathematics
@@ -75,3 +75,5 @@ Hi! My name is Neerja Thakkar.
 In June 2019, I graduated from Dartmouth with a BA in Computer Science and Mathematics. For the past year, I've been a visiting student at the University of Zaragoza's [Graphics and Imaging Lab](http://neerja.me/graphics.unizar.es) on a [Fulbright Research Scholarship](https://fulbright.es/) to Spain.
 
 In Fall 2020, I'm going to start my PhD in EECS at [Berkeley AI Research](https://bair.berkeley.edu/). I am interested in research in computer vision, computational photography, and digital forensics.
+
+I recently started a [blog](http://neerja.me/blog/)! [This post](https://neerja.me/post/intro/) is a good starting point.
