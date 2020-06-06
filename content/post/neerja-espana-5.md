@@ -5,10 +5,11 @@ title: "Neerja en España #5"
 subtitle: "Adjusting to Life in Spain"
 summary: "Adjusting to Life in Spain: Labmates, flatmates, friendships and Spanish!"
 authors: []
-tags: []
-categories: []
-date: 2020-05-30T23:18:39-05:00
-lastmod: 2020-05-30T23:18:39-05:00
+tags: [Fulbright, 2019]
+places: [Spain, Zaragoza]
+categories: 
+date: 2020-05-29T23:18:39-05:00
+lastmod: 2020-05-29T23:18:39-05:00
 featured: false
 draft: false
 

@@ -6,7 +6,9 @@ subtitle: "The research part of my research grant"
 summary: "The research part of my research grant: Life in my lab and the research I'm working on"
 authors: []
 tags: [Fulbright, 2019]
-categories: []
+places: [Spain, Zaragoza]
+
+categories: 
 date: 2020-05-24T11:07:00-05:00
 lastmod: 2020-05-24T11:07:00-05:00
 featured: false
