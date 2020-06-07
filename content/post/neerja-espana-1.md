@@ -29,6 +29,8 @@ image:
 projects: []
 ---
 
+*Originally written September 2019*
+
 The first 11 posts in my "Neerja en España" series will be very lightly edited emails that I sent my friends while I was in Spain. Since a lot has changed since I wrote them, I'm adding retrospective comments in italics to the posts that I wrote while I was living through them. Here's the first email I sent:
 
 The summer after graduation flew by between cherished time at home, travels to Europe with family, and a trip to the East Coast with my best friend to visit some of our college friends who started work. Now I'm in Spain, which has already been crazy, but I first wanted to explain what the Fulbright actually is and what I'll be doing:

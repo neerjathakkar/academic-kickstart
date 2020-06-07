@@ -29,6 +29,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+*Originally written October 2019*
 
 I can't believe that I've been in Spain for over a month. It's flown by, and strangely feels like this is my life now, and I'm loving it! There's a lot of exciting non-work related stuff happening, but I'll save that for the next update - I want to take this one to explain what I'm doing here work-wise.
 

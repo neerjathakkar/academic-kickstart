@@ -29,6 +29,8 @@ image:
 projects: []
 ---
 
+*Originally written September 2019*
+
 I arrived to Madrid pretty exhausted off of a red eye, and went to the Airbnb I was going to stay in for the night with another Dartmouth '19 who got a Fulbright to be a TA in Asturias, a region in Northern Spain. I was pretty dead, but decided to head with them to a bar for a pre-orientation Fulbright event. The bar consisted of a lot of people my age talking very loudly and I was soon overwhelmed and exhausted at having to scream to converse, a common thread throughout orientation. I opted to not drink, since I hadn't really eaten or slept. I was able to meet some people and they were all really nice, but I was happy to leave after an hour to go meet up with Cristina.
 
 Cristina is my host sister from a 2-week Spanish exchange back in high school, and we've stayed in touch ever since. She just passed the exam to become a teacher, and she's now teaching English to middle and high schoolers in Madrid. She's one of the kindest and most genuine people I've ever met, and it's so nice that I started my Fulbright with at least one friend within a 200 mile radius! We had dinner and went to a rooftop bar (which I enjoyed much more than the last rooftop bar that I went to, Mr. Purple, in NYC), and it was wonderful to catch up and talk about potential vacations *(I read the word vacations and first thought it said vaccinations - this pandemic is getting to me. Then I remembered there will be no more vacations for a long while)* around Europe we could take together.

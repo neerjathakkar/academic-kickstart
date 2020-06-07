@@ -28,6 +28,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+*Originally written October 2019*
 
 *Fiestas del Pilar,* commonly called "*pilares*" is an ~11 day long citywide festival in Zaragoza. For these 11 days, there are concerts and events from 8 am to early into the next morning (basically 8 am to 7 am). The biggest event happened towards the end, on Saturday 12/10 (look at me using European dates now - that's October 12) with the *ofrenda de flores*, but there were countless social, religious and cultural events throughout.
 

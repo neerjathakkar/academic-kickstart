@@ -2,10 +2,10 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Applying for the Fulbright Part 1"
-subtitle: "Finding Your Application Focus"
+subtitle: "Finding your application focus"
 summary: "My first post on applying for a research Fulbright - some thoughts on how to decide what program to apply for and where to go to"
 authors: []
-tags: [Fulbright]
+tags: [Fulbright, Fulbright application]
 categories: []
 date: 2020-05-20T23:29:37-05:00
 lastmod: 2020-05-20T23:29:37-05:00

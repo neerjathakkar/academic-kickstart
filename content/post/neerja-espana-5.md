@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Neerja en España #5"
-subtitle: "Adjusting to Life in Spain"
-summary: "Adjusting to Life in Spain: Labmates, flatmates, friendships and Spanish!"
+subtitle: "Adjusting to life in Spain"
+summary: "Adjusting to life in Spain: Labmates, flatmates, friendships and Spanish!"
 authors: []
 tags: [Fulbright, 2019]
 places: [Spain, Zaragoza]
@@ -28,6 +28,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+*Originally written October 2019*
 
 Now, here's an update about everything in my non-work life, which for once is actually a very significant part of my life! 
 
