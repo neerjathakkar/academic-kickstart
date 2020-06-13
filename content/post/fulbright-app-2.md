@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-In this post, I break down the most significant components of the Fulbright application.
+In this post, I break down the most significant components of the Fulbright application. My [first post]({{< ref "/post/fulbright-app-1.md" >}}) on applying for a Fulbright research grant covers focusing your application.
 
 **Personal Statement**
 

@@ -5,7 +5,7 @@ title: "How to Spend A Pre-PhD Gap Year"
 subtitle: ""
 summary: "A survey of different options to consider if you want to take time off between undergrad and your PhD"
 authors: []
-tags: [Fulbright, PhD Applications]
+tags: [Fulbright, PhD application]
 places: []
 categories: []
 date: 2020-05-23T23:31:07-05:00
