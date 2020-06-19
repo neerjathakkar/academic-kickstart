@@ -9,11 +9,11 @@ title = "Neerja Thakkar"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://neerjathakkar.github.io/"
+baseurl = "https://neerja.me/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = ""
+copyright = 'This work by <a xmlns:cc="http://creativecommons.org/ns#" href="neerja.me" property="cc:attributionName" rel="cc:attributionURL">Neerja Thakkar</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br> &copy; Neerja Thakkar 2020'
 
 ############################
 ## Advanced options below ##
