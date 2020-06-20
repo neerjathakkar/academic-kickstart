@@ -6,7 +6,7 @@ subtitle: "Spain is starting to feel like home"
 summary: "How Spain started to feel like my home!"
 authors: []
 tags: [Fulbright, 2019]
-places: [Spain, Madrid, Barcelona]
+places: [Spain, Madrid, Barcelona, Zaragoza]
 categories: []
 date: 2020-06-17T23:02:21-05:00
 lastmod: 2020-06-17T23:02:21-05:00
