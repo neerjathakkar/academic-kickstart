@@ -3,7 +3,7 @@
 
 title: "Neerja en España #8"
 subtitle: "Spain is starting to feel like home"
-summary: "How Spain started to feel like my home!"
+summary: "How Spain started to feel like home!"
 authors: []
 tags: [Fulbright, 2019]
 places: [Spain, Madrid, Barcelona, Zaragoza]

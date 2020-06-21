@@ -36,7 +36,7 @@ Holiday season in Spain was incredible! I could feel the spirit in the air in a 
  {{< figure library="true" src="zgz_lights.jpg" title="Here's a taste of what Zaragoza looked like for all of December" lightbox="true" width="500">}}
 
 
- {{< figure library="true" src="madrid_lights.jpg" title="And here's one of my favorite plaza's in Madrid" lightbox="true" width="500">}}
+ {{< figure library="true" src="madrid_lights.jpg" title="And here's one of my favorite plazas in Madrid" lightbox="true" width="500">}}
 
 
 Over their winter break, more of my Dartmouth friends came to Spain. Two of them came to visit me in Zaragoza, and then we went to Barcelona together and met up with a few more friends! By that point, I was very comfortable in Zaragoza, so it was a blast to show them around the city, introduce them to my Spanish friends, and take them to my favorite bars for *juepincho*. It is so special to share a place you love with people you love.
