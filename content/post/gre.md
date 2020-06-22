@@ -46,7 +46,7 @@ The remainder of my 4 days consisted of 6-8 hours a day spent alternating betwee
 
 **Math (Quantitative Reasoning)**
 
-I majored in math in college, so math tests were a very familiar feeling for me. The GRE math topics, however, were basically all ones I hadn't explicitly been tested on since middle school, so I did have to spend some time reviewing formulas such the calculation of standard deviation. Then, it was just a matter of becoming familiar with the unusual format of how math questions are asked in the GRE and looking out for certain tricks - I did this by going through every problem that was a multiple of 5 in the book. Doing a few more than 20% of the practice problems would have been ideal, but since I had very limited time, I focused more of my efforts on other sections.
+I majored in math in college, so math tests were a very familiar feeling for me. The GRE math topics, however, were basically all ones I hadn't explicitly been tested on since middle school, so I did have to spend some time reviewing formulas such as the calculation of standard deviation. Then, it was just a matter of becoming familiar with the unusual format of how math questions are asked in the GRE and looking out for certain tricks - I did this by going through every problem that was a multiple of 5 in the book. Doing a few more than 20% of the practice problems would have been ideal, but since I had very limited time, I focused more of my efforts on other sections.
 
 **Essays (Analytical Writing)**
 

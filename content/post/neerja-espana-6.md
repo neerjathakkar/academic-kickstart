@@ -52,7 +52,7 @@ During the week: Went to more concerts, hung out in the plaza, etc, but mostly t
   {{< figure library="true" src="pilares_plaza.jpg" title="" lightbox="true" width="500">}}
 
 
-Second weekend: More concerts and hanging out. The highlight was on Saturday, with the *ofrenda de flores*, where lots of people participate in a parade that ends up with offering flowers, which is then arranged into a literal floral mountain. The folwers were incredible. Aiko decided to walk with the Japanese society of Aragon, so we met a bunch of people through that and ended the day at a cafe with new friends, which made for a very fun day.
+Second weekend: More concerts and hanging out. The highlight was on Saturday, with the *ofrenda de flores*, where lots of people participate in a parade that ends up with offering flowers, which is then arranged into a literal floral mountain. The flowers were incredible. Aiko decided to walk with the Japanese society of Aragon, so we met a bunch of people through that and ended the day at a cafe with new friends, which made for a very fun day.
 
   {{< figure library="true" src="flores.jpg" title="" lightbox="true" width="500">}}
 

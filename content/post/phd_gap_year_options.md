@@ -40,7 +40,7 @@ Cons: Since you probably won't be doing research, this won't be as significant a
 
 Pros: By doing research, you'll get to figure out if you truly like research and want to make a career out of it. More research experience should also be a big boost to your PhD applications, especially if you can publish, and will help you be better prepared for your PhD. You will get to make connections in academia (which is surprisingly small, and can be a huge benefit when you are considering grad school). 
 
-Cons: It can be hard to find research experiences outside of specific academic programs or fellowships, since many professors prefer to work with their PhD/masters/undergrad students.
+Cons: It can be hard to find research experiences outside of specific academic programs or fellowships, since many professors prefer to work with their PhD/Master's/undergrad students.
 
 **Do research for a year, on a fellowship** 
 
@@ -48,14 +48,14 @@ Pros: All of the pros of doing research for a year. Additionally, when you do re
 
 Cons: The application process is often extensive and many fellowships are very selective. 
 
-**Get a Masters** 
+**Get a Master's** 
 
-Pros: Many of the same benefits as doing research for a year (be sure to look into a research vs course-based masters). You'll get to take advanced courses of your choosing and hone your research interests.
+Pros: Many of the same benefits as doing research for a year (be sure to look into a research vs course-based Master's). You'll get to take advanced courses of your choosing and hone your research interests.
 
-Cons: For most programs, you will have to pay (however, be sure to look into 4+1 programs at your undergraduate institution, which are sometimes discounted, and fellowships such as Fulbright that fund Master's programs, and generally Masters programs abroad, since American tuition is more expensive than that of many fantastic universities abroad). Many PhD programs will have higher expectations of you to have at least one, if not more, publications when you apply, compared to applicants with just an undergrad degree. Also, most PhD programs will still require you to take courses when you get there, and so you will likely add additional years of school. 
+Cons: For most programs, you will have to pay (however, be sure to look into 4+1 programs at your undergraduate institution, which are sometimes discounted, and fellowships such as Fulbright that fund Master's programs, and generally Master's programs abroad, since American tuition is more expensive than that of many fantastic universities abroad). Many PhD programs will have higher expectations of you to have at least one, if not more, publications when you apply, compared to applicants with just an undergrad degree. Also, most PhD programs will still require you to take courses when you get there, and so you will likely add additional years of school. 
 
  **My Gap Year**
 
-I navigated all of this by applying to my 4 top-choice PhD programs, and also applying to fellowships alongside them. I didn't expect to get into any PhD programs, but I was hoping that a fellowship would work out so that I could do more research and strengthen my application. If nothing worked out, my plan was to try to work in industry for a year, or maybe do a masters program. 
+I navigated all of this by applying to my 4 top-choice PhD programs, and also applying to fellowships alongside them. I didn't expect to get into any PhD programs, but I was hoping that a fellowship would work out so that I could do more research and strengthen my application. If nothing worked out, my plan was to try to work in industry for a year, or maybe do a Master's program. 
 
 Luckily, I ended up getting into a couple of my top choice programs, and also getting a Fulbright fellowship. I committed to UC Berkeley and deferred for a year so that I could do the Fulbright. My year off was so much more than I expected it to be, and I would highly recommend considering a gap year (or a few) before jumping into a PhD. I'm now going into my PhD feeling much more prepared, well rested, and convinced that doing a PhD is right for me.

@@ -7,7 +7,6 @@ summary: "A wonderful whirlwind end to 2019 in Spain"
 authors: []
 tags: [Fulbright, 2019]
 places: [Spain, Madrid, Barcelona, Zaragoza]
-tags: []
 categories: []
 date: 2020-06-20T16:01:37-05:00
 lastmod: 2020-06-20T16:01:37-05:00
