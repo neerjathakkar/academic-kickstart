@@ -29,6 +29,7 @@ image:
 projects: []
 ---
 
+*Originally written December 2019*
 
 Holiday season in Spain was incredible! I could feel the spirit in the air in a much more visceral way than when I was in America. This was definitely due to everyone's joyful attitudes, but also in part due to the Christmas markets and decorations - all of the cities put up gorgeous lights. 
 
