@@ -62,4 +62,4 @@ And then, the wedding, which was mostly why we were there. Indian weddings are I
 
   {{< figure library="true" src="dad_wedding.jpg" title="My dad had a GREAT time at the wedding with his cousins" lightbox="true" width="500">}}
 
-  {{< figure library="true" src="cousins_wedding.jpg" title="Maybe 1/3 of the cousins on my dad's side hahaha (my grandmother on his side is one of 7 sisters...)" lightbox="true" width="500">}}
+  {{< figure library="true" src="cousins_wedding.jpg" title="Maybe 1/3 of the cousins on my dad's side (my grandmother on his side is one of 7 sisters...)" lightbox="true" width="500">}}
