@@ -8,8 +8,8 @@ authors: []
 tags: [2020]
 categories: []
 places: [Minnesota]
-date: 2020-07-01T21:49:32-05:00
-lastmod: 2020-07-01T21:49:32-05:00
+date: 2020-07-03T21:49:32-05:00
+lastmod: 2020-07-03T21:49:32-05:00
 featured: false
 draft: false
 

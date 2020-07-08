@@ -5,7 +5,7 @@ title: "The GRE"
 subtitle: ""
 summary: "My take on studying for the GRE and its role in your PhD application"
 authors: []
-tags: [PhD application]
+tags: [PhD prep/app]
 categories: []
 date: 2020-06-21T11:07:36-05:00
 lastmod: 2020-06-21T11:07:36-05:00
