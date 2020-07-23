@@ -5,10 +5,10 @@ title: "Getting Involved in Pre-Phd Research"
 subtitle: ""
 summary: "How I got involved in research during high school and undergrad"
 authors: []
-tags: [PhD prep/app]
+tags: [PhD prep/app, Research]
 categories: []
-date: 2020-07-04T11:03:32-05:00
-lastmod: 2020-07-04T11:03:32-05:00
+date: 2020-07-07T11:03:32-05:00
+lastmod: 2020-07-07T11:03:32-05:00
 featured: false
 draft: false
 

@@ -5,7 +5,7 @@ title: "Neerja en España #4"
 subtitle: "The research part of my research grant"
 summary: "The research part of my research grant: Life in my lab and the research I'm working on"
 authors: []
-tags: [Fulbright, 2019]
+tags: [Fulbright, 2019, Research]
 places: [Spain, Zaragoza]
 
 categories: 

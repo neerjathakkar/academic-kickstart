@@ -70,6 +70,8 @@ user_groups:
 - Visitors
 ---
 
+<meta property="og:image" content="asses/images/featured.jpg">
+
 Hi! My name is Neerja Thakkar.
 
 In June 2019, I graduated from Dartmouth with a BA in Computer Science and Mathematics. For the past year, I've been a visiting student at the University of Zaragoza's [Graphics and Imaging Lab](http://neerja.me/graphics.unizar.es) on a [Fulbright Research Scholarship](https://fulbright.es/) to Spain.

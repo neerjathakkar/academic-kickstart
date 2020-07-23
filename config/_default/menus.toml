@@ -36,10 +36,35 @@
   name = "Blog"  # Title of the link.
   url = "blog/"  # Widget Page folder name.
   weight = 100  # Position of the link in the navigation bar.
+  identifier = "blog"
+
+[[main]]
+  name = "Recent posts"
+  url = "blog/"
+  weight = 102
+  parent = "blog"
+
+[[main]]
+  name = "Intro"
+  url = "post/intro/"
+  weight = 101
+  parent = "blog"
+
+[[main]]
+  name = "Fulbright"
+  url = "tag/fulbright/"
+  weight = 110
+  parent = "blog"
+
+[[main]]
+  name = "PhD Preparation/Application"
+  url = "tag/phd-prep/app/"
+  weight = 120
+  parent = "blog"
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
   name = "CV"
   url = "files/cv.pdf"
-  weight = 70
+  weight = 170
