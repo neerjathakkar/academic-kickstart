@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Getting Strong Letters of Recommendation"
+title: "Letters of Recommendation"
 subtitle: ""
-summary: "How to form strong relationships with professors and ask for a letter"
+summary: "How to get strong letters by forming relationships with professors and asking in the best way"
 authors: []
 tags: [PhD prep/app]
 categories: []

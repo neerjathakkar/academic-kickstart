@@ -5,7 +5,7 @@ title: "Neerja en España #12"
 subtitle: ""
 summary: "Fulbright Mid-Year in Murcia"
 authors: []
-tags: [Fulbright, 2020, Conferences, Research]
+tags: [Fulbright, 2020]
 places: [Spain]
 categories: []
 date: 2020-07-23T11:03:42-05:00
@@ -60,7 +60,7 @@ Some highlights of mid-year (or more like small details I don't want to forget):
  {{< figure library="true" src="casino_friends.jpg" title="Obviously seeing a mirror merited a mirror selfie" lightbox="true" width="300">}}
 
 
-- Group lunches that weren't scheduled with enough time (we had 1.5 hours to findd a place and eat, in SPAIN, where lunch is supposed to be a 2+ hour affair) so we were all late to everything but collectively so it was fun. We really should have broken up but we didn't have the heart to eat in groups smaller than a cool 16
+- Group lunches that weren't scheduled with enough time (we had 1.5 hours to find a place and eat, in **Spain**, where lunch is supposed to be a 2+ hour affair) so we were all late to everything but collectively so it was fun. We really should have broken up but we didn't have the heart to eat in groups smaller than a cool 16
 - How hard Murcia tourism tried to sell us on the city of Murcia -  they showed us a video of Murcia (after about 18 hours in the city at this point I already recognized many of the places), gave us free stuff, and tried to convince us to come back. Professors at the university also tried to recruit several of us for graduate programs or in my case a research internship
 - Watching two close friends of mine give amazing presentations on their research - Anna on complex systems and modeling ants, and Ash on developing an HIV vaccine. My friends are so brilliant! Other Fulbrighters I want to get to know better also gave great presentations on topics such as using social media to learn languages, indigenous languages in Spain, and the role of touch in education for young children 
 - Attending some pretty cool grantee-led workshops. One of them was on sustainability in Spain, and it was interesting to explore ways we have observed Spanish culture being more or less sustainable than American culture. I also attended a session where we discussed how we have been adjusting to and enjoying life in Spain, which gave me a lot of new ideas that I want to try here!
