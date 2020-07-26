@@ -28,6 +28,9 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+*Neerja Thakkar graduated from Dartmouth in 2019 with a BA in Computer Science and Mathematics. For the past year, she was doing computational photography research in Spain on a Fulbright research scholarship, and in Fall 2020 she will be starting her PhD in EECS at UC Berkeley.*
+
 By the end of my junior year, I was firmly convinced that I wanted to do a PhD, but I knew that I wanted to take at least a year off before I started it. After taking a year off, I am extremely happy that I did so  - it allowed me to recover from burnout after undergrad, explore a new country, meet a lot of new people, and learn a lot that made me feel much more prepared to start my PhD. Therefore, I would strongly recommend considering a gap year. However, deciding how to spend a year off can be tricky. I considered several options, and talked to my professors and older students about them. Here are some bits of advice I gleaned and my thoughts on a non-exhaustive list of ways to spend a year or two before starting a PhD. 
 
 **Work in industry**

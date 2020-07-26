@@ -28,6 +28,8 @@ image:
 projects: []
 ---
 
+*Neerja Thakkar graduated from Dartmouth in 2019 with a BA in Computer Science and Mathematics. For the past year, she was doing computational photography research in Spain on a Fulbright research scholarship, and in Fall 2020 she will be starting her PhD in EECS at UC Berkeley.*
+
 In this post, I break down the most significant components of the Fulbright application. My [first post]({{< ref "/post/fulbright-app-1.md" >}}) on applying for a Fulbright research grant covers focusing your application.
 
 **Personal Statement**

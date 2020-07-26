@@ -28,6 +28,8 @@ image:
 projects: []
 ---
 
+*Neerja Thakkar graduated from Dartmouth in 2019 with a BA in Computer Science and Mathematics. For the past year, she was doing computational photography research in Spain on a Fulbright research scholarship, and in Fall 2020 she will be starting her PhD in EECS at UC Berkeley.*
+
 Research experience is extremely important for anyone considering a PhD (or for anyone who simply wants to explore an academic field, connect with a professor and learn valuable skills). However, for many students, getting involved in research isn't straightforward, so in this post I'm going to break down how I got involved in my various research experiences throughout high school and college, and some additional advice for undergraduates. 
 
 My first research experience was the summer after my junior year of high school, when I worked at an immunology research lab at a local university, assisting a PhD student with wet lab research. This experience helped me both in the college application process and in getting involved in research at college. I continued with this kind of bench research when I started college, assisting an immunology professor at Dartmouth Hitchcock Medical Center. I soon realized that I wasn't as interested in bench research, but wanted to do computational research, so I switched to computational biology research, utilizing my immunology knowledge and newfound computer science skills. As I went through college and took more courses, I realized I was more interested in other areas of computer science, so I started research in visual computing, a field which I then continued in during my Fulbright and into my PhD.

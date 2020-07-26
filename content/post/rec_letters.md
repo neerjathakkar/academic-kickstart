@@ -28,11 +28,13 @@ image:
 projects: []
 ---
 
+*Neerja Thakkar graduated from Dartmouth in 2019 with a BA in Computer Science and Mathematics. For the past year, she was doing computational photography research in Spain on a Fulbright research scholarship, and in Fall 2020 she will be starting her PhD in EECS at UC Berkeley.*
+
 Letters of recommendation are probably the single most important component of a PhD application, and critical for many other purposes. Getting strong letters of recommendation consists of both forming strong relationships with professors and asking in the right way. In this post, I'll break down how I got to know professors who ended up writing for me for scholarships, fellowships and grad school. I'll also talk about how to approach asking for a letter.
 
 **Forming relationships with professors**
 
-Doing well in your classes and going to office hours will give your professors a good impression of you. However, for a stronger letter, you should try to get to know a professor even better outside of class. This can be through research, being a TA, or another type of project. Here are the relationships I had with some professors that wrote letters for me throughout college:
+Doing well in your classes and going to office hours will give your professors a good impression of you. However, for a stronger letter, you should try to get to know a professor even better outside of class. This can be through research, being a TA, or another type of project. Here are the interactions I had with some professors that wrote letters for me throughout college:
 
 - Did research with for 2 years
 - Took 2 hard classes with, and then TAed one of those classes

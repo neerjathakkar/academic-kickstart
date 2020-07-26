@@ -28,6 +28,7 @@ image:
 projects: []
 ---
 
+*Neerja Thakkar graduated from Dartmouth in 2019 with a BA in Computer Science and Mathematics. For the past year, she was doing computational photography research in Spain on a Fulbright research scholarship, and in Fall 2020 she will be starting her PhD in EECS at UC Berkeley.*
 
 When you look at the [Fulbright website](https://us.fulbrightonline.org/), you may notice that the amount of different programs you can apply to is huge. There are several axes of freedom where you have to make a decision: the **country** you apply in, the **program** you apply for (research/TA/masters), and if you do research, the **host institution** you work with and the **research project** you propose. It can feel overwhelming to decide which program to apply for and how to go about the process, so in this post I'm going to go over some things I considered and explain how I ended up making a decision. Most of this post will only be applicable for a research Fulbright as part of the US Student program, since that is what I applied for.
 

@@ -29,6 +29,8 @@ image:
 projects: []
 ---
 
+*Neerja Thakkar graduated from Dartmouth in 2019 with a BA in Computer Science and Mathematics. For the past year, she was doing computational photography research in Spain on a Fulbright research scholarship, and in Fall 2020 she will be starting her PhD in EECS at UC Berkeley.*
+
 Due to the pandemic, a lot of us who are fortunate to have jobs where we can work from home have been dealing with a new normal. This was an adjustment for me, but after I got used to it, I actually love working from home. Of course, there's a lot going on, so it's really important to prioritize taking care of yourself and being okay with not always being at your most productive right now. There are some days where it's really hard for me to focus, but more and more where I'm getting a lot done. Here are some things that have really worked for me when working from home:
 
 First, a few things to think about in advance.

@@ -28,6 +28,8 @@ image:
 projects: []
 ---
 
+*Neerja Thakkar graduated from Dartmouth in 2019 with a BA in Computer Science and Mathematics. For the past year, she was doing computational photography research in Spain on a Fulbright research scholarship, and in Fall 2020 she will be starting her PhD in EECS at UC Berkeley.*
+
 Before I delve into how I studied for the GRE, I want to point out that it's crucial to understand the importance of the GRE for your application process before you plan how much time you want to allocate to studying and which sections you want to study the hardest for. Some graduate programs might potentially require certain scores or stress that a specific section is important. Other programs, however, see the GRE as relatively unimportant and just more of a sanity check that everyone has decent scores. 
 
 From what I had understood, CS PhD programs were definitely in the latter category - I heard that I should not give the GRE a lot of importance, and that my course selection/grades, letters of recommendation, and research experience carried far more weight. Therefore, I didn't take the GRE too seriously or sacrifice time spent on research to study, and I would strongly recommend you do the same if the GRE is relatively unimportant to your program. 

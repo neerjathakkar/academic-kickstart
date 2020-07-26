@@ -28,6 +28,8 @@ image:
 projects: []
 ---
 
+*Neerja Thakkar graduated from Dartmouth in 2019 with a BA in Computer Science and Mathematics. For the past year, she was doing computational photography research in Spain on a Fulbright research scholarship, and in Fall 2020 she will be starting her PhD in EECS at UC Berkeley.*
+
 It's one thing to figure out how to position yourself and apply for a PhD program, but deciding that you actually want a PhD is an entirely different thing. In this post, I want to walk through the aspects of my academic journey in college that made me feel confident in my decision to pursue a PhD in computer science. Before I dive in, I want to make it clear that a PhD is at its core about research, so this post will really center around why I decided to go after a career in research.
 
 **My Journey**
