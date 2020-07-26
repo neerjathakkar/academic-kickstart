@@ -39,9 +39,15 @@
   identifier = "blog"
 
 [[main]]
+  name = "New? Start here"  # Title of the link.
+  url = "start/"  
+  weight = 102  # Position of the link in the navigation bar.
+  parent = "blog"
+
+[[main]]
   name = "Recent posts"
   url = "blog/"
-  weight = 102
+  weight = 103
   parent = "blog"
 
 [[main]]
