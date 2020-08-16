@@ -3,9 +3,9 @@
 
 title: "Some Podcasts I Like"
 subtitle: ""
-summary: ""
+summary: " "
 authors: []
-tags: [content consumption]
+tags: [Content Consumption]
 categories: []
 date: 2020-08-15T20:38:47-05:00
 lastmod: 2020-08-15T20:38:47-05:00
@@ -36,7 +36,7 @@ Every episode of Up First has 3 short news stories and takes me just a little ov
 
 **[Code Switch](https://www.npr.org/podcasts/510312/codeswitch)**
 
-This podcast, which is hosted by journalists of color, explores the intersection of different areas in society with racism.
+This podcast, which is hosted by journalists of color, explores the intersection of different areas in society with racism. It's a great way to get a fuller perspective on current events and systems in our country.
 
 **[Ten Percent Happier](https://www.tenpercent.com/podcast)**
 

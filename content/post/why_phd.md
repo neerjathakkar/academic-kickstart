@@ -7,8 +7,8 @@ summary: "My journey + things to consider if you are thinking about grad school"
 authors: []
 tags: [PhD prep/app]
 categories: []
-date: 2020-07-25T11:08:34-05:00
-lastmod: 2020-07-25T11:08:34-05:00
+date: 2020-08-16T10:08:34-05:00
+lastmod: 2020-08-16T10:08:34-05:00
 featured: false
 draft: true
 
@@ -30,7 +30,7 @@ projects: []
 
 *Neerja Thakkar graduated from Dartmouth in 2019 with a BA in Computer Science and Mathematics. For the past year, she was doing computational photography research in Spain on a Fulbright research scholarship, and in Fall 2020 she will be starting her PhD in EECS at UC Berkeley.*
 
-It's one thing to figure out how to position yourself and apply for a PhD program, but deciding that you actually want a PhD is an entirely different thing. In this post, I want to walk through the aspects of my academic journey in college that made me feel confident in my decision to pursue a PhD in computer science. Before I dive in, I want to make it clear that a PhD is at its core about research, so this post will really center around why I decided to go after a career in research.
+It's one thing to figure out how to position yourself and apply for a PhD program, but deciding that you actually want a PhD is an entirely different process. In this post, I want to walk through the aspects of my academic journey in college that made me feel confident in my decision to pursue a PhD in computer science. Before I dive in, I want to make it clear that a PhD is at its core about research. Therefore, this post will center on why I decided to go after a research career.
 
 **My Journey**
 
@@ -38,7 +38,7 @@ As a freshman, I discovered computer science for the first time. I knew the fiel
 
 My freshman summer both gave me some self-confidence and made me truly think about the concept of a PhD for the first time. I interned as a software engineer in a data science lab along with 3 math and computer science PhD students. My project on parsing data made me see that I was capable of accomplishing a coding task I was given in the real world, but I also realized that it wasn't very interesting to me compared to the research projects my fellow interns were working on. Trying to solve research problems as opposed to engineering problems was much more exciting to me. I also talked to some other teams in the company who were working on exciting technologies such as those that enable self-driving cars, and I realized there was so much cool stuff I could do within computer science besides just parsing data. However, I realized I would need a PhD to tackle most of the questions I wanted to. PhD or no PhD, my coworkers biggest piece of advice was to take a lot of math.
 
-Being the crazy person I am, I decided to map out an 11 year plan - basically, what my 4 years of college, a gap year, a 5 year PhD, and then options after could look like. Everything after college and my gap year was very vague, but it's funny that a lot of things I wrote and started to map out in my plan - "add a double major in math", "do a Fulbright or something like it after college", "TA more CS classes", "get an internship at a good tech company that has strong software engineering and research divisions" - ended up happening.
+Being me, I decided to map out an 11 year plan - basically, what my 4 years of college, a gap year, a 5 year PhD, and then options after could look like. Everything after college and my gap year was very vague, but it's funny that a lot of things I wrote and started to map out in my plan - "add a double major in math", "do a Fulbright or something like it after college", "TA more CS classes", "get an internship at a good tech company that has strong software engineering and research divisions" - ended up happening.
 
 As I went through the rest of college, I didn't closely follow or even revise my 11 year plan much, but I used it as a framework to explore if a PhD was right for me. I prioritized taking important CS and math courses, going after opportunities that would allow me to explore academia and work closely with professors, and checking in with myself to see how I felt about different experiences. A lot of opportunities that I could never have planned for came up - research positions, working on the CLRS Algorithms textbook with Professor Cormen, being a teaching assistant for a brand new class, and studying abroad in Budapest. Having all these wonderful experiences not only strengthened my application, but also showed me that more time in academia was right for me. I loved many aspects of all of these experiences - getting to work closely with professors on interesting problems, doing work that would be published and put out for others to use, walking students through problems, taking courses at an institution other than my own - and realized that the process of a PhD would probably be enjoyable to me.
 

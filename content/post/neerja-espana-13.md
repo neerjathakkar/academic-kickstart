@@ -6,7 +6,7 @@ subtitle: ""
 summary: "My last weeks in Spain"
 authors: []
 tags: [Fulbright, 2020]
-places: [Spain, Zaragoza, Barcelona]
+places: [Spain, Zaragoza]
 categories: []
 date: 2020-08-13T11:03:42-05:00
 lastmod: 2020-08-13T11:03:42-05:00
