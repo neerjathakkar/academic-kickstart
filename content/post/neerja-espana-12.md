@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Neerja en España #12"
+title: "Neerja en España #12: Mid-Year"
 subtitle: ""
 summary: "Fulbright Mid-Year in Murcia"
 authors: []

@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Neerja en España #11"
+title: "Neerja en España #11: FAT*"
 subtitle: ""
-summary: "FAT* in Barcelona"
+summary: "Attending the FAT* conference in Barcelona"
 authors: []
 tags: [Fulbright, 2020, Conferences, Research]
 places: [Spain, Barcelona]

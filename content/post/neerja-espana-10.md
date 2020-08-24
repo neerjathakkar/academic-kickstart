@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Neerja en España #10"
-subtitle: "The longest winter break"
+title: "Neerja en España #10: The Longest Winter Break"
+subtitle: ""
 summary: "The longest winter break: from Minnesota to NYC to Madrid to Mumbai"
 authors: []
 tags: [Fulbright, 2019, 2020]

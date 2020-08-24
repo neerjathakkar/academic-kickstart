@@ -5,7 +5,7 @@ title: "Tips for Working From Home"
 subtitle: ""
 summary: "Some ways I've been staying productive at home"
 authors: []
-tags: [productivity]
+tags: [Productivity]
 places: [Minnesota]
 categories: []
 date: 2020-06-03T10:39:49-05:00

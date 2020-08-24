@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Neerja en España #3"
-subtitle: "Settling into Zaragoza"
+title: "Neerja en España #3: Settling into Zaragoza"
+subtitle: ""
 summary: "My first few days in my new home: apartment hunting and adjusting"
 authors: []
 tags: [Fulbright, 2019]

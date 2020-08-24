@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Neerja en España #4"
-subtitle: "The research part of my research grant"
+title: "Neerja en España #4: My Research Grant"
+subtitle: ""
 summary: "The research part of my research grant: Life in my lab and the research I'm working on"
 authors: []
 tags: [Fulbright, 2019, Research]

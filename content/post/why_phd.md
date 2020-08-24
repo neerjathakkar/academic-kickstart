@@ -7,10 +7,10 @@ summary: "My journey + things to consider if you are thinking about grad school"
 authors: []
 tags: [PhD prep/app]
 categories: []
-date: 2020-08-16T10:08:34-05:00
-lastmod: 2020-08-16T10:08:34-05:00
+date: 2020-08-19T10:08:34-05:00
+lastmod: 2020-08-19T10:08:34-05:00
 featured: false
-draft: true
+draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -30,11 +30,11 @@ projects: []
 
 *Neerja Thakkar graduated from Dartmouth in 2019 with a BA in Computer Science and Mathematics. For the past year, she was doing computational photography research in Spain on a Fulbright research scholarship, and in Fall 2020 she will be starting her PhD in EECS at UC Berkeley.*
 
-It's one thing to figure out how to position yourself and apply for a PhD program, but deciding that you actually want a PhD is an entirely different process. In this post, I want to walk through the aspects of my academic journey in college that made me feel confident in my decision to pursue a PhD in computer science. Before I dive in, I want to make it clear that a PhD is at its core about research. Therefore, this post will center on why I decided to go after a research career.
+It's one thing to figure out how to position yourself and apply for a PhD program, but actually deciding that you want a PhD is an entirely different process. In this post, I'm going to walk through the aspects of my academic journey in college that made me feel confident in my decision to pursue a PhD in computer science. Before I dive in, I want to make it clear that a PhD is at its core about research. Therefore, this post will center on why I decided to go after a research career.
 
 **My Journey**
 
-As a freshman, I discovered computer science for the first time. I knew the field existed and it sounded vaguely interesting to me, but it wasn't until I took CS1 and went through the process of solving problems with code that I realized I really liked it. I was vaguely pre-med throughout my first year, and held onto that even though I liked CS more because I felt like I was excelling in my pre-med classes but didn't have faith in my CS abilities.
+As a freshman, I discovered computer science for the first time. I knew the field existed and it sounded vaguely interesting to me, but it wasn't until I took CS1 and went through the process of solving problems with code that I realized I really liked it. I was vaguely pre-med throughout my first year, and stuck with it even though I liked CS more because I felt like I was excelling in my pre-med classes but didn't have faith in my CS abilities.
 
 My freshman summer both gave me some self-confidence and made me truly think about the concept of a PhD for the first time. I interned as a software engineer in a data science lab along with 3 math and computer science PhD students. My project on parsing data made me see that I was capable of accomplishing a coding task I was given in the real world, but I also realized that it wasn't very interesting to me compared to the research projects my fellow interns were working on. Trying to solve research problems as opposed to engineering problems was much more exciting to me. I also talked to some other teams in the company who were working on exciting technologies such as those that enable self-driving cars, and I realized there was so much cool stuff I could do within computer science besides just parsing data. However, I realized I would need a PhD to tackle most of the questions I wanted to. PhD or no PhD, my coworkers biggest piece of advice was to take a lot of math.
 
@@ -55,4 +55,4 @@ If you're maybe considering doing a PhD, but not sure if you want to, here is so
 - Figure out what kinds of undergrad activities will prepare you for grad school, and as importantly along the way let you explore if grad school is for you. Research is the most important activity in this category, but other opportunities such as being a TA, taking hard classes, and other projects with professors are great too. Also, if you're considering an alternate career path (like how I was potentially considering software engineering), try to gain some experience in that area to see if you like it as much.
 - After every experience, be honest with yourself and reflect on what you liked and didn't like about it. As I went through undergrad, I learned a lot about my strengths, weaknesses, aspirations, and interests. Out of the options that were available to me, a PhD seemed like the most exciting and best-fitting one, so I decided to go for it.
     - Consider both the possibilities of what your career/life will look like after your PhD, but also what the process of actually doing a PhD will feel like.
-- Take time after undergrad, especially if you're not sure. Undergrad was crazy and busy, which made it hard to have the time and space to properly reflect and think about my ambitions, while being away from Dartmouth gave me a new and clearer perspective. Getting to do research for a year in Spain also really helped me see that a PhD was right for me, but it could have gone the other way too. In this post (link), I talk about pre-PhD gap year options.
+- Take time after undergrad, especially if you're not sure. Undergrad was crazy and busy, which made it hard to have the time and space to properly reflect and think about my ambitions, while being away from Dartmouth gave me a new and clearer perspective. Getting to do research for a year in Spain also really helped me see that a PhD was right for me, but it could have gone the other way too. In [this post]({{< ref "/post/phd_gap_year_options.md" >}}), I talk about pre-PhD gap year options, which might be especially helpful to consider if you are done with college and want to pursue an opportunity that could strengthen your PhD application and/or decide if a PhD is right for you.

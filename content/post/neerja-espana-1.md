@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Neerja en España #1"
-subtitle: "An overview of Fulbright Spain and the year to come"
+title: "Neerja en España #1: Hola!"
+subtitle: ""
 summary: "An overview of Fulbright Spain and the year to come"
 authors: []
 tags: [Fulbright, 2019]

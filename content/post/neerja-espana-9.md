@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Neerja en España #9"
-subtitle: "A wonderful whirlwind end to 2019 in Spain"
+title: "Neerja en España #9: December in Spain"
+subtitle: ""
 summary: "A wonderful whirlwind end to 2019 in Spain"
 authors: []
 tags: [Fulbright, 2019]

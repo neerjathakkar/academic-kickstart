@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Neerja en España #2"
-subtitle: "Orientation"
+title: "Neerja en España #2: Orientation"
+subtitle: ""
 summary: "My first experience in Spain: Fulbright orientation"
 authors: []
 tags: [Fulbright, 2019]

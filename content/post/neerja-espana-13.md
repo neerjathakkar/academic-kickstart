@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Neerja en España #13"
+title: "Neerja en España #13: My Last Weeks in Spain"
 subtitle: ""
-summary: "My last weeks in Spain"
+summary: "Enjoying spring in Zaragoza pre-pandemic"
 authors: []
 tags: [Fulbright, 2020]
 places: [Spain, Zaragoza]

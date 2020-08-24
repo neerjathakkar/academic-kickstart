@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Neerja en España #8"
-subtitle: "Spain is starting to feel like home"
+title: "Neerja en España #8: Enjoying Life in Spain"
+subtitle: ""
 summary: "How Spain started to feel like home!"
 authors: []
 tags: [Fulbright, 2019]

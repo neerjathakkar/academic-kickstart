@@ -1,16 +1,16 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Applying to Grad School Panel Transcript"
+title: "Grad School Preparation Panel Transcript"
 subtitle: ""
 summary: "My answers to some questions I was asked at a recent panel I spoke at"
 authors: []
-tags: []
+tags: [PhD prep/app]
 categories: []
-date: 2020-08-16T11:23:14-05:00
-lastmod: 2020-08-16T11:23:14-05:00
+date: 2020-08-25T11:23:14-05:00
+lastmod: 2020-08-25T11:23:14-05:00
 featured: false
-draft: true
+draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -27,6 +27,8 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+*Neerja Thakkar graduated from Dartmouth in 2019 with a BA in Computer Science and Mathematics. For the past year, she was doing computational photography research in Spain on a Fulbright research scholarship, and in Fall 2020 she will be starting her PhD in EECS at UC Berkeley.*
 
 I've spoken in a few panels in the past year for Women in Computer Science and Dartmouth Pan Asian alumni association centered around graduate school/different career paths. Here are some questions I was asked at the most recent panel I spoke at, and my answers to them.
 
@@ -72,8 +74,8 @@ General advice:
 Advice on different application components:
 - SOP: tell a story about how you were shaped intellectually, show your research potential - most undergrads haven’t done a ton of research, so explain why you will be able to succeed at research
 - GRE - don’t worry about it too much! For many programs it’s not actually that important and your time and energy would be much better spent focusing on research or taking hard classes
-- Letters of recommendation - extremely important. Form strong relationships with professors, ask them a couple of months in advance at least, give them a list of things you want to include in letter because often they will have forgotten details (link to post)
+- Letters of recommendation - extremely important. Form strong relationships with professors, ask them a couple of months in advance at least, give them a list of things you want to include in letter because often they will have forgotten details. More information can be found in [this post]({{< ref "/post/rec_letters.md" >}})
 
 **Do you have any tips for the Fulbright application process?**
 
-My answer to this question is basically summarized my Fulbright application posts (link).
+My answer to this question is summarized my [Fulbright application posts]({{< ref "/post/fulbright-app-1.md" >}}).

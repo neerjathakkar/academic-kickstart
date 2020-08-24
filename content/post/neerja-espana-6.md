@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Neerja en España #6"
-subtitle: "Fiestas del Pilar"
-summary: "Fiestas del Pilar: The first and biggest of many fiestas"
+title: "Neerja en España #6: Fiestas del Pilar"
+subtitle: ""
+summary: "The first and biggest of many fiestas"
 authors: []
 tags: [Fulbright, 2019]
 places: [Spain, Zaragoza]

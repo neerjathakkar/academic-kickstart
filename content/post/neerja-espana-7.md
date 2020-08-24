@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Neerja en España #7"
-subtitle: "The Fulbright Research Seminar"
-summary: "The Fulbright Research Seminar: an incredible weekend in Madrid"
+title: "Neerja en España #7: The Fulbright Research Seminar"
+subtitle: ""
+summary: "An incredible weekend in Madrid, courtesy of the Fulbright program"
 authors: []
 tags: [Fulbright, 2019]
 places: [Spain, Madrid]
