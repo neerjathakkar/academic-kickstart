@@ -32,6 +32,13 @@ projects: []
 
 I've spoken in a few panels in the past year for Women in Computer Science and Dartmouth Pan Asian alumni association centered around graduate school/different career paths. Here are some questions I was asked at the most recent panel I spoke at, and my answers to them.
 
+**What has been helpful for you in figuring out your career goals and how grad school factors into those?**
+
+I thought through a couple of career paths - software engineering and a research career, and then pursued experiences that would let me try out both of those. On the SWE side, I did 2 SWE internships, one at 3M and one at Facebook. On the academia side, I took hard classes, added a math major since math is so important for CS research, did research, worked on a textbook, and TAed classes. I realized that while the perks and salary of SWE was nice, the more academia oriented experiences were so much more fulfilling to me. Getting to actually experience a taste of different paths, and then reflecting on them, really showed me which one was right for me.
+
+I had already gotten into grad school and knew I wanted to go by the time I did my Fulbright, but that experience made me feel 200% confident that getting a PhD was right for me, since I got more perspectives on grad school and got to do research full time.
+
+
 **Do you recommend that students take time off before starting grad school? What have you learned in your experience?**
 
 Absolutely! 
@@ -43,12 +50,6 @@ If you're considering a PhD, it's important to know that you absolutely want to 
 I deferred for a year to do fulbright and this was one of the best decisions of my life for so many reasons. Spain is amazing, and it was great to get to travel and explore. I made friends with Spanish people and non-Dartmouth American students and people from other countries - getting out of the Dartmouth bubble gives you more perspective when considering your future. It was really nice to get a break from school, since I was burnt out after undergrad. Finally, it was also super helpful career wise - I made connections with a lab in Spain, did research full time emulating parts of the PhD experience, learned so many things and learned what I don’t know, and really thought about and shaped my research interests.
 
 Overall, I would recommend a year off, but I would also think through what you want to do in that year off carefully - what are your goals for your year off? Why are you taking a year off? What do you hope to achieve or clarify?
-
-**What has been helpful for you in figuring out your career goals and how grad school factors into those?**
-
-I thought through a couple of career paths - software engineering and a research career, and then pursued experiences that would let me try out both of those. On the SWE side, I did 2 SWE internships, one at 3M and one at Facebook. On the academia side, I took hard classes, added a math major since math is so important for CS research, did research, worked on a textbook, and TAed classes. I realized that while the perks and salary of SWE was nice, the more academia oriented experiences were so much more fulfilling to me. 
-
-I had already gotten into grad school and knew I wanted to go by the time I did my Fulbright, but that experience made me feel 200% confident that getting a PhD was right for me, since I got more perspectives on grad school and got to do research full time.
 
 
 **What advice would you give to students who are starting to think about applying to grad school?**
