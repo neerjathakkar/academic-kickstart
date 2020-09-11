@@ -44,7 +44,7 @@ There are a few different components to the tech internship interview process an
 - Team matching interview: Google has these interviews after you pass the coding interviews (I made it to this stage but dropped out after one interview because I didn't like the team and had offer deadlines with other companies), in order to make sure there's a good fit between you and the team. Some other companies also have similar interviews. Definitely take these seriously, because they can determine whether or not a team is willing to have you join them, which translates into you getting the internship or not
 - Other interviews: I don't know that much about other types of interviews such as design or PM (product management), but Cracking the Coding Interview has an amazing breakdown of other types of interviews, and the author has written a separate book on applying to PM jobs
 
-Preparing for the coding interview
+Here's how I prepared for the coding question interviews (the bulk of the interview process):
 
 - First, I decided on the topics I needed to master and reviewed the basics of those topics by implementing data structures/algorithms from scratch. These topics included (but are not limited to - it's been a while) the following:
     - Data structures - arrays, strings, linked lists, trees, DAG, graphs
