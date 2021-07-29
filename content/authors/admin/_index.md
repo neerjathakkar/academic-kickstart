@@ -74,6 +74,6 @@ user_groups:
 
 Hi! My name is Neerja Thakkar.
 
-I'm a first year PhD student in EECS at UC Berkeley, where I am lucky to work with [Hany Farid](https://farid.berkeley.edu/). I am interested in research in computer vision, computational photography, and digital forensics. I am supported by a Chancellor's Fellowship from Berkeley.
+I'm a first year PhD student in EECS at UC Berkeley, where I am lucky to work with [Hany Farid](https://farid.berkeley.edu/). I am interested in research in computer vision, computational photography, and digital forensics. I am supported by a Chancellor's Fellowship from Berkeley and an [NSF Graduate Research Fellowship](https://nsfgrfp.org/).
 
 I did my undergrad at Dartmouth, where I studied Computer Science and Mathematics, and had the pleasure of working with [Chris Bailey-Kellogg](https://www.cs.dartmouth.edu/~cbk/cbk.php), [Wojciech Jarosz](https://cs.dartmouth.edu/~wjarosz/index.html), and [Neel Joshi](http://neelj.com/) at Microsoft Research. For the past year, I was a visiting student at the University of Zaragoza's [Graphics and Imaging Lab](http://neerja.me/graphics.unizar.es) on a [Fulbright Research Scholarship](https://fulbright.es/) to Spain.

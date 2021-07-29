@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-As I approached my junior year, I had never had a software engineering internship in the tech industry before, and I really wanted to get an internship at a big or medium-sized tech company for the upcoming summer. I did some research on how to approach recruiting, and then I went for it. I ended up getting offers at Facebook, Microsoft, and Palantir, among other companies. In this 3-part series, I'll walk you through the steps I took that led to that outcome. 
+As I approached my junior year, I had never had a software engineering internship in the tech industry before, and I really wanted to get an internship at a big or medium-sized tech company for the upcoming summer. I did some research on how to approach recruiting, and then I went for it. I ended up getting offers at Facebook, Microsoft, and Palantir, among other companies. The tech recruiting process can feel intimidating, but it's actually pretty straightforward, and once you understand it you can definitely take the steps to get your first internship too! In this 3-part series, I'll walk you through the steps I took that led to that outcome. 
 
 In this post, I'll talk about how to strengthen your application so that you get an interview. In my next post, I'll talk about how to nail the interview. Finally, I'll discuss how to navigate choosing an internship post-offer. This series is based on my own experiences, which were heavily influenced by older students, and by [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/). I'll be referencing the book several times, and it's very worth checking it out!
 

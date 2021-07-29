@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-As I said in [part 1](({{< ref "/post/rec_letters.md" >}})) of this post, I started the fall of my junior year having never had an internship in the tech industry, and ended it with software engineering internship offers at Facebook, Palantir, and Microsoft, among other companies. My first post covered having a strong resume/job application, and this one will cover nailing the actual interview.
+As I said in [part 1](({{< ref "/post/tech_internships_1.md" >}})) of this post, I started the fall of my junior year having never had an internship in the tech industry, and ended it with software engineering internship offers at Facebook, Palantir, and Microsoft, among other companies. My first post covered having a strong resume/job application, and this one will cover nailing the actual interview.
 
 Before I dive into it, I want to link to a few helpful resources that I'll refer to throughout this post:
 

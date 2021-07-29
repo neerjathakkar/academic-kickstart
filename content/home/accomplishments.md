@@ -20,6 +20,26 @@ date_format = "2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "National Science Foundation"
+  organization_url = ""
+  title = "Graduate Research Fellowship"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-03-25"
+  date_end = ""
+  description = "Fellowship that provides three years of financial support"
+
+[[item]]
+  organization = "UC Berkeley"
+  organization_url = ""
+  title = "Chancellor's Fellowship"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-08-25"
+  date_end = ""
+  description = "Two-year university fellowship"
+
+[[item]]
   organization = "UC Berkeley EECS Department"
   organization_url = ""
   title = "EECS Excellence Award"
@@ -27,7 +47,7 @@ date_format = "2006"
   certificate_url = ""
   date_start = "2020-08-25"
   date_end = ""
-  description = ""
+  description = "Selected by UC Berkeley EECS faculty, based on academic record"
 
 [[item]]
   organization = "Dartmouth College"

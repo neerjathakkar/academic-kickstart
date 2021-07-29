@@ -8,8 +8,8 @@ authors: []
 tags: [Fulbright, 2020]
 places: [Minnesota]
 categories: []
-date: 2020-09-06T13:00:25-05:00
-lastmod: 2020-09-06T13:00:25-05:00
+date: 2020-09-07T13:00:25-05:00
+lastmod: 2020-09-07T13:00:25-05:00
 featured: false
 draft: false
 

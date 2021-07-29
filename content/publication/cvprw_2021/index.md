@@ -1,28 +1,28 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Balancing sensitivity and specificity in distinguishing TCR groups by CDR sequence similarity"
+title: "On the Feasibility of 3D Model-Based Forensic Height and Weight Estimation"
 authors: []
-date: 2020-05-20T23:12:58-05:00
+date: 2021-07-20T23:12:58-05:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-05-20T23:12:58-05:00
+publishDate: 2021-07-20T23:12:58-05:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Balancing sensitivity and specificity in distinguishing TCR groups by CDR sequence similarity"
+publication: "On the Feasibility of 3D Model-Based Forensic Height and Weight Estimation"
 publication_short: ""
 
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "**Neerja Thakkar** and Chris Bailey-Kellogg, BMC Bioinformatics, 2019"
+summary: "**Neerja Thakkar** and Hany Farid, Workshop on Media Forensics at CVPR, 2021"
 
 tags: []
 categories: []
@@ -36,8 +36,8 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://bmcbioinformatics.biomedcentral.com/track/pdf/10.1186/s12859-019-2864-8
-url_code: https://github.com/neerjathakkar/Distinguishing-TCR-Groups
+url_pdf: https://farid.berkeley.edu/downloads/publications/cvpr21b.pdf
+url_code: 
 url_dataset:
 url_poster:
 url_project:
